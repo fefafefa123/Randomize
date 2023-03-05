@@ -13,6 +13,7 @@ Example
 7
 8
 9
+
 0 = Minimum number
 
 Maded by Junior
